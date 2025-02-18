@@ -1,0 +1,922 @@
+job_title,employer_name,job_publisher,job_employment_type,job_description
+Senior Cloud Solutions Engineer,Long View Systems,Trabajo.org,Full-time,"About Long View Systems
+
+We are proud of our reputation as one of North America's most dynamic IT providers, and we're even prouder of our culture that allows our people to live life to its fullest. At Long View, we create an environment of collaboration and support, of innovation and enthusiasm, of inclusion and belonging.
+
+Our company's core pillars — Integrity, Competence, Value, and Fun — resonate through the workplace. And in a recent survey, 90% of Long View team members rated us as a good or great place to work.
+
+We are looking for an energetic and motivated individual who shares our values and is passionate about driving high-value solutions to our clients. If you want to lead a team in a company that believes in integrity, competence, value, and fun, then we encourage you to apply.
+
+We are currently seeking a highly skilled ServiceNow Solutions Architect to join our Integrated Global Services branch. As a key member of our team, you will design and deliver cutting-edge solutions that drive business value for our clients.
+
+In this role, you will utilize your strong technical consulting skills to develop innovative solutions that address complex business challenges. You will work closely with Account Managers to support projects and optimize sales opportunities in key accounts.
+
+A Day in the Life:
+• You will architect and design ServiceNow solutions tailored to meet the unique needs of our clients, leveraging products such as ITSM, CSM, VA, PA, App Engine, Service Bridge, and IntegrationHub.
+• As a key expert in ServiceNow technology, you will provide technical leadership and guidance throughout the entire lifecycle, from solution design to implementation and deployment.
+• You will conduct thorough analysis of existing client processes and workflows, identifying areas for improvement and automation using ServiceNow.
+• Your expertise will ensure the scalability, performance, and stability of ServiceNow solutions, optimizing system resources and configuration settings.
+• You will conduct thorough testing of ServiceNow configurations and customizations, ensuring high-quality deliverables and adherence to industry best practices.
+• You will provide technical expertise and guidance to our ServiceNow support team, assisting with troubleshooting and problem resolution.
+• You will share your knowledge by providing ServiceNow platform training and mentorship to other team members in the business and at clients.
+• You will ensure that ServiceNow platform security configuration aligns with corporate security policies and industry best practices.
+
+Why Work at Long View?
+• Great people and culture.
+• Career growth – Permanent staff positions, paid training, career life planning, and relocation and travel opportunities.
+• Interesting work – Be part of exciting projects while accessing all the latest technologies.
+• Flexible environment – A workplace that values the importance of flexibility for personal/professional growth, happiness, and wellness."
+Cloud Data Engineer,"GTT, LLC",Trabajo.org,Full-time,"We are seeking a talented Cloud Data Engineer to join our team at GTT, LLC. As a key member of our IT team, you will be responsible for designing and deploying large-scale data architectures that align with industry best practices.
+
+This role requires strong technical expertise in cloud-based platforms, relational databases, and big data technologies. The ideal candidate will also possess excellent communication and collaboration skills to work effectively with cross-functional teams.
+
+Key Responsibilities:
+• Design and deploy large-scale data architectures using cloud-based platforms and big data technologies.
+• Lead the development of data engineering projects to ensure alignment with business objectives and industry best practices.
+• Capture and translate business requirements into technical designs and implement data models.
+• Collaborate with data science teams to develop innovative data visualizations and predictive analytics.
+• Ensure data security, integrity, and governance by implementing appropriate controls and monitoring data quality.
+
+Requirements:
+• Bachelor's degree in Computer Science or related field.
+• At least 5 years of experience in data engineering roles within large and complex organizations.
+• Expertise in cloud-based platforms, relational databases, and big data technologies.
+• Strong analytical and problem-solving skills to identify and mitigate risks.
+• Excellent communication and collaboration skills to work effectively with cross-functional teams."
+Senior Cloud Engineer,AIMCo (Alberta Investment Management Corporation),Glassdoor,Full-time,"CLOSING DATE:
+
+February 15, 2025
+
+Opportunity
+
+Are you a seasoned Cloud Engineer with a passion for implementing and maintaining robust Azure infrastructure? Do you thrive in fast-paced environments and enjoy creating innovative solutions to complex challenges? If the answer is 'yes', we have an exciting opportunity for you!
+
+""Work our way from Edmonton or Calgary. Our flexible work style lets you work remotely while allowing regular visits to our vibrant offices, where you can soak up our culture and collaborate with colleagues.""
+
+We are seeking a dedicated and skilled Cloud Engineer to manage our Azure infrastructure and support our data platform built on Databricks. In this pivotal role, you'll leverage your expertise in Terraform for infrastructure provisioning, maintain CI/CD pipelines in Azure DevOps, manage cloud costs, and ensure optimal performance and security across our cloud platforms.
+
+Here's a snapshot of what you'll do:
+
+Responsibilities:
+
+Infrastructure Provisioning and Management:
+• Utilize Terraform to provision and manage Azure infrastructure, integrating SaaS applications with our data platform built on Databricks and Snowflake.
+• Support and manage infrastructure for Azure Integration Services and containerization technologies, such as Azure Container Apps and Azure Kubernetes Service (AKS).
+
+Networking and Security Design:
+• Design, implement, and maintain Azure networking components, while implementing security measures to ensure compliance with organizational policies.
+
+CI/CD Pipeline Management:
+• Establish and manage pipelines for continuous integration and deployment of Azure infrastructure changes with Azure DevOps, collaborating closely with cross-functional teams.
+
+Monitoring and Optimization:
+• Monitor and optimize the Azure environment and apply FinOps best practices to maximize business value of the cloud.
+• Ensure compliance with organizational security policies and standards, implementing necessary controls and measures.
+
+Backup and Disaster Recovery:
+• Develop and support backup and disaster recovery solutions, ensuring data integrity, availability, and business continuity.
+
+Our Ideal Candidate Qualifications:
+• A Bachelor’s degree in Computer Science, Information Technology, or a related field. Advanced certifications in Azure (e.g., Microsoft Certified Azure Solutions Architect) are preferred.
+• 3-5 years of experience as a Cloud Engineer or similar role, with a focus on Azure cloud services and infrastructure.
+• Proven experience with Terraform for Infrastructure as Code (IaC), Azure networking, security implementations, and Azure DevOps CI/CD pipeline management.
+• Experience with Databricks and Snowflake.
+• Familiarity with FinOps principles for cloud cost management.
+• Excellent problem-solving and communication skills, with the ability to collaborate effectively across teams.
+• Strong understanding of backup and disaster recovery best practices in cloud environments.
+• Demonstrates a strong commitment to AIMCo’s core values of excellence, transparency, humility, integrity, and collaboration, and inspiring the same in others.
+
+This is a fantastic opportunity to contribute to our innovative cloud strategy while working with a highly skilled team of professionals. If you're ready to take your career to new heights, apply today!
+
+Note: Posting will close at 11:59pm MST on Feb 14th, 2025
+
+Next Steps
+
+We are excited to meet you. Please submit your resume or CV to be considered for this opportunity. Applications are being reviewed on a rolling basis and we will be in touch with any questions.
+
+Final candidates will be asked to undergo a security screening, which includes a credit bureau and a criminal record investigation, the results of which must be acceptable to AIMCo.
+
+ALERT - Be on the lookout for AIMCo career opportunities advertised through third parties that request an application fee or too much information. To verify, all opportunities are posted on aimco.ca/jobs
+
+Just like our investments, our international team is stronger when we are diversified. At AIMCo, we draw upon the differences in who we are, where we come from, and the way we think to foster sophisticated solutions for Albertans. Doing business the right way means building an equitable organization inclusive of all races, genders, ages, abilities, religions, neurodiversity, identities, and lived experiences. Simply put, when you can show up as your authentic self every day, you and your team can truly thrive — all in service of our clients and their beneficiaries."
+"Cloud Security Engineer, Deloitte Global Technology",Deloitte,LinkedIn,Full-time,"Job Type: PermanentWork Model: RemoteReference code: 128225Primary Location: Toronto, ONAll Available Locations: Toronto, ON; Burlington, ON; Calgary, AB; Edmonton, AB; Fredericton, NB; Halifax, NS; Kitchener, ON; Moncton, NB; Ottawa, ON; Regina, SK; Saint John, NB; Saskatoon, SK; St. John's, NL; Vancouver, BC; Victoria, BC; Winnipeg, MB
+
+Our Purpose
+
+At Deloitte, we are driven to inspire and help our people, organization, communities, and country to thrive. Our Purpose is to build a better future by accelerating and expanding access to knowledge. Purpose defines who we are and gives us reason to exist as an organization.
+
+By living our Purpose, we will make an impact that matters.
+• Enjoy flexible, proactive, and practical benefits that foster a culture of well-being and connectedness.
+• Experience a firm where wellness matters.
+• Be expected to share your ideas and to make them a reality.
+• What will your typical day look like?
+
+This position seeks a Cloud Security professional with practical experience in cloud security and governance. As a Cloud Security Engineer, the individual will be responsible for providing guidance on security configurations for cloud services across AWS, Azure, and GCP. The role involves assessing cloud services, identifying vulnerabilities and risks, and offering actionable recommendations to maintain a high level of security for Deloitte's cloud infrastructure.
+
+Responsibilities:
+• Conduct thorough research, and analyze the security configurations of AWS, Azure, and GCP cloud services, including IaaS, PaaS, SaaS, and marketplace offerings.
+• Deploy cloud services in a sandbox environment and perform security assessments to identify vulnerabilities. Use available tools and techniques to evaluate the security posture of the cloud service and identify any gaps. Recommend appropriate remediation guidelines.
+• Review Deloitte's internal Information Security standards and provide security compliance guidance for individual cloud services. Collaborate with the development team to suggest the creation of new guardrails where necessary.
+• Work with Cloud Service Providers (CSPs), marketplace vendors, and cross-functional teams, including architecture, application development, and security teams, to ensure that the provided guidance is comprehensive and practical.
+• Stay informed about the latest trends and developments in cloud security and offer recommendations for improving security configurations based on emerging threats and vulnerabilities.
+• Provide continuous process improvement suggestions to develop a robust and efficient cloud services security assessment process.
+• Utilize Prisma Cloud to analyze and manage security policies, ensuring compliance with industry standards and best practices.
+
+About The Team
+
+Deloitte Technology works at the forefront of technology development and processes to support and protect Deloitte around the world. In this truly global environment, we operate not in ""what is"" but rather ""what can be"" to help Deloitte deliver and connect with its clients, its communities, and one another in ways not previously conceived.
+
+Enough about us, let’s talk about you
+
+Required:
+• Bachelor's degree in Computer Science, Information Systems Security, or in a related field
+• 5 years of proven experience as Cloud Security Engineer or in a similar role
+• Proven, hands-on experience in deploying services in AWS, Azure, or GCP.
+• Strong communication and interpersonal skills, especially technical English writing skills, with the ability to clearly document security assessments, and recommendations.
+• Continuous learning mindset, with a passion for staying current with the latest trends and developments in cloud security.
+• ISC2 CCSP Certification
+• Solutions Architect or Security specialty Certification in AWS, Azure or GCP
+
+Preferred:
+• Experience in multiple CSPs platforms
+• Understanding of security frameworks, standards, and best practices (e.g., CIS Benchmarks, NIST, ISO 27001)
+• Experience with Prisma Cloud for security policy analysis and management.
+
+Total Rewards
+
+The salary range for this position is $69,000 - $114,000, and individuals may be eligible to participate in our bonus program. Deloitte is fair and competitive when it comes to the salaries of our people. We regularly benchmark across a variety of positions, industries, sectors, targets, and levels. Our approach is grounded on recognizing people's unique strengths and contributions and rewarding the value that they deliver.
+
+Our Total Rewards Package extends well beyond traditional compensation and benefit programs and is designed to recognize employee contributions, encourage personal wellness, and support firm growth. Along with a competitive base salary and variable pay opportunities, we offer a wide array of initiatives that differentiate us as a people-first organization. Some representative examples include: $4,000 per year for mental health support benefits, a $1,300 flexible benefit spending account, 38+ days off (including 10 firm-wide closures known as ""Deloitte Days""), flexible work arrangements and a hybrid work structure.
+
+Our promise to our people: Deloitte is where potential comes to life.
+
+Be yourself, and more.
+
+We are a group of talented people who want to learn, gain experience, and develop skills. Wherever you are in your career, we want you to advance.
+
+You Shape How We Make Impact.
+
+Diverse perspectives and life experiences make us better. Whoever you are and wherever you’re from, we want you to feel like you belong here. We provide flexible working options to support you and how you can contribute. Be the leader you want to be.
+
+Be the leader you want to be
+
+Some guide teams, some change culture, some build essential expertise. We offer opportunities and experiences that support your continuing growth as a leader.
+
+Have as many careers as you want.
+
+We are uniquely able to offer you new challenges and roles – and prepare you for them. We bring together people with unique experiences and talents, and we are the place to develop a lasting network of friends, peers, and mentors. Our TVP is about relationships – between leaders and their people, the firm and its people, peers, and within in our communities.
+
+The next step is yours
+
+At Deloitte, we are all about doing business inclusively – that starts with having diverse colleagues of all abilities. Deloitte encourages applications from all qualified candidates who represent the full diversity of communities across Canada. This includes, but is not limited to, people with disabilities, candidates from Indigenous communities, and candidates from the Black community in support of living our values, creating a culture of Diversity Equity and Inclusion and our commitment to our AccessAbility Action Plan , Reconciliation Action Plan and the BlackNorth Initiative .
+
+We encourage you to connect with us at accessiblecareers@deloitte.ca if you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations) or indigenouscareers@deloitte.ca for any questions relating to careers for Indigenous peoples at Deloitte (First Nations, Inuit, Métis).
+
+By applying to this job you will be assessed against the Deloitte Global Talent Standards. We’ve designed these standards to provide our clients with a consistent and exceptional Deloitte experience globally.
+
+Deloitte Canada has 30 offices with representation across most of the country. We acknowledge our offices reside on traditional, treaty and unceded territories as part of Turtle Island and is still home to many First Nations, Métis, and Inuit peoples. We are all Treaty people."
+AWS DevOps Specialist,Riva,Trabajo.org,Full-time,"At Riva, we value diversity, equity, inclusion, and fun in our work culture. We believe in rewarding curiosity and offering opportunities for growth and contribution.
+"">
+
+As a Senior AWS Cloud DevOps Engineer, you will join our team of experienced professionals who share your passion for delivering exceptional results.
+• *Key Responsibilities:
+• Design, deploy, and manage cloud infrastructure for enterprise SaaS applications.
+• Implement and maintain continuous integration and delivery (CI/CD) pipelines to automate deployment processes.
+• Collaborate with development teams to integrate cloud solutions with application architectures.
+• Mentor and guide other DevOps staff, fostering a culture of continuous learning and improvement.
+• *Essential Qualifications:
+• Bachelor's degree in Cloud Services, IT Management, Computer Science, or equivalent education & experience.
+• 5+ years of proven work experience as an AWS Cloud Engineer or a DevOps engineer with extensive AWS cloud expertise.
+• Strong skills resolving AWS cloud networking and security issues.
+• *Our Offer Includes:
+• Total compensation package including RRSP/IRA matching, paid vacation, and extended health care benefits.
+• Professional development and training allowance for career advancement."
+Cloud Infrastructure Developer,Tbwa Chiat/Day Inc,BeBee Canada Meet Opportunities,Full-time,"At Shift5, we're revolutionizing the way we approach operational technology (OT) systems. As a Platform Engineer, you'll play a critical role in building, deploying, and supporting solutions that operate seamlessly across edge compute devices and cloud environments.
+About Shift5
+
+We're a rapidly growing scale-up that specializes in cybersecurity, predictive maintenance, and compliance for OT systems across defense, aerospace, and rail. Our team is passionate about helping our customers' fleets run smarter and safer by accessing and democratizing onboard OT data.
+
+We're committed to building an inclusive culture of belonging that represents the communities we work with and serve. We strive to attract and retain talent from diverse backgrounds, creating workplaces where everyone feels empowered to bring their authentic selves.
+Core Responsibilities
+• Engineer: Design, deploy, and support cloud-native architectures using container orchestration, infrastructure-as-code, and automation tools, ensuring compatibility and performance in Linux-based edge computing setups.
+• Integrate: Configure and combine existing Shift5 software components to build cohesive solutions that operate reliably on edge computing devices and scalable infrastructure.
+• Innovate: Leverage knowledge and experience to drive innovation within existing products, continuously exploring ways to improve functionality, efficiency, and scalability.
+Qualifications
+• A deep understanding of systems and technologies, including Linux, networking, and cloud-native technologies.
+• Strong expertise in Kubernetes, Containers, OCI image creation, Helm, Terraform, and ArgoCD.
+• Excellent capability in shell scripting, git, and data serialization formats.
+• Ability to understand programming languages like Go, Python, C++, and C.
+• Experience in high growth environments, with hands-on and proven experience in cloud and edge computing environments."
+Cloud DevOps Engineer and Python Automation,Aplin,Jooble,Full-time,"If you are a talented and experienced Cloud DevOps Engineer, Aplin has the right opportunity for you! Our Edmonton-based client is a forward-thinking company that prides themselves on delivering cutting-edge solutions to their clients, powered by the latest in cloud technology. As they continue to scale, they are seeking a skilled DevOps and Infrastructure Engineer with deep expertise in Azure, Google Cloud Platform (GCP), Kubernetes, Helm, and Terraform to join the team.
+
+Currently, they utilize Azure portal, Office 365, MS SQL and some legacy setup such as virtual machines for product servers. They are looking for a highly skilled and experienced DevOps and Infrastructure Engineer to manage and optimize the multi-cloud infrastructure, with a strong emphasis on Kubernetes orchestration using Helm and infrastructure as code (IaC) with Terraform. The ideal candidate will have substantial experience with both Microsoft Azure and Google Cloud Platform (GCP), and be proficient in automating, monitoring, and securing cloud environments.
+
+This role is full-time in the office
+
+Multi-Cloud Infrastructure Management: Design, implement, and manage scalable, reliable, and secure cloud infrastructure across Microsoft Azure and Google Cloud Platform (GCP).
+• Utilize Helm for package management and deployment.
+• CI/CD Pipelines: Develop and maintain CI/CD pipelines using tools such as GitLab, Google Cloud Build, and Jenkins, ensuring efficient and reliable deployment processes.
+• Infrastructure as Code (IaC): Utilize Terraform to automate the provisioning and management of cloud infrastructure across Azure and GCP, ensuring consistency and version control of infrastructure changes.
+• Monitoring & Performance: Implement and maintain robust monitoring, logging, and alerting systems using tools like Azure Monitor, Google Cloud Operations Suite, Prometheus, and Grafana to ensure optimal infrastructure performance.
+• Apply best practices for cloud security, including network security, identity and access management, and encryption. Collaboration: Work closely with development teams to provide infrastructure and tooling support, enabling agile development practices and improving overall efficiency.
+• Incident Management: Participate in on-call rotation for infrastructure-related incidents, conducting root cause analysis and implementing preventative measures to minimize future disruptions.
+• Continuously monitor and optimize cloud infrastructure costs on Azure and GCP, making data-driven recommendations for more efficient resource utilization.
+
+Experience: Minimum of 5 years of experience in DevOps, Infrastructure Engineering, or a related field, with strong expertise in Azure, Google Cloud Platform, Kubernetes, Helm, and Terraform.
+• Proficient in core Azure and GCP services, including Azure VMs, Azure Kubernetes Service, Compute Engine, Google Kubernetes Engine, and associated networking and storage solutions.
+• Extensive experience with Terraform for automating cloud infrastructure deployments and management.
+• Automation & CI/CD: Hands-on experience with building and maintaining CI/CD pipelines using GitLab DevOps, Google Cloud Build, Jenkins, or similar tools.
+• Scripting & Automation: Proficiency in scripting languages such as Python, Bash, or PowerShell for automation tasks.
+• Monitoring & Logging: Experience with monitoring and logging tools like Prometheus, Grafana, Azure Monitor, and Google Cloud Operations Suite.
+• operating as Aplin, and its associated brands, CompuStaff and Impact Recruitment, is an award-winning employment agency connecting diverse, top-tier talent with exceptional organizations across North America. Our clients partner with us to help expand and diversify their teams. Please note that all applicants must be legally entitled to work in Canada, including holding any necessary work permits."
+Senior Cloud and Full Stack Developer,Vantix Systems Inc.,Trabajo.org,Full-time,"Position Overview
+
+Vantix Systems Inc. is seeking a highly skilled software development engineer to lead our team's efforts in cloud and full-stack development. The ideal candidate will possess extensive experience in designing, developing, and maintaining cloud-based applications using Amazon AWS and Microsoft Azure platforms.
+
+The successful candidate will be responsible for providing architectural direction, technical project leadership, and ensuring the responsiveness of applications. They will also design and develop RESTful APIs, utilize CI/CD tools, and translate requirements into functional and technical designs.
+
+The role requires proficiency in programming languages such as C#, .Net, JavaScript, and Typescript. Familiarity with Agile methodologies and version control systems like Git is also essential.
+
+Key Skills and Qualifications:
+• 5+ years of experience in software development with a focus on cloud and full-stack development.
+• Proficient in programming languages such as C#, .Net, JavaScript, and Typescript.
+• Familiarity with AWS cloud platform and Azure is a plus.
+• Experience with Agile methodologies and version control systems like Git.
+• Strong understanding of computer science concepts and data structures."
+Senior Azure Engineer,Alberta Investment Management Co,BeBee Canada Meet Opportunities,Full-time,"• *Job Description:**
+
+We are looking for a highly skilled Senior Azure Engineer to join our team and take ownership of our Azure infrastructure and data platform.
+
+The successful candidate will have experience with Terraform, Azure networking, security implementations, and Azure DevOps CI/CD pipeline management.
+
+Key Responsibilities:
+• Take ownership of our Azure infrastructure and data platform
+• Provision and manage Azure infrastructure using Terraform
+• Support and manage infrastructure for Azure Integration Services and containerization technologies such as Azure Container Apps and Azure Kubernetes Service (AKS)
+• Design, implement, and maintain Azure networking components while implementing security measures to ensure compliance with organizational policies
+• Establish and manage pipelines for continuous integration and deployment of Azure infrastructure changes with Azure DevOps, collaborating closely with cross-functional teams"
+Cloud Services Engineer,Ataccama,BeBee Canada Meet Opportunities,Full-time,"We're looking for a highly skilled Technical Support Engineer to join our global team. As a Technical Support Engineer at Ataccama, you will play a critical role in ensuring the success of our customers by providing exceptional support and guidance.
+
+Our company culture is built around five core values:
+• Challenging Fun
+• ONE Team
+• Customer Centric
+• Candid and Caring
+• Aim High
+
+In this role, you will be responsible for assisting customers in solving technical issues, representing Ataccama through daily communications with customers via JIRA and Zoom to resolve Support Tickets, solving advanced analytic issues related to Ataccama products and their integration with supported third-party software, answering how-to questions, and suggesting workarounds.
+
+As a member of our team, you will have the opportunity to continuously expand your knowledge of Ataccama products and related third-party software, including database management systems, identity and access management providers, and web application servers. You'll leverage the knowledge you gain and contribute to our documentation and knowledge base.
+
+The ideal candidate has 5 years of experience in a technical support role, demonstrates excellent interpersonal skills, is proficient in SQL and relational databases, and has strong written and verbal communication skills."
+Cloud Architect Specialist,Vantix Systems Inc.,Trabajo.org,Full-time,"Company Overview
+
+Vantix Systems Inc. is a leading provider of innovative technology solutions, dedicated to empowering businesses through cutting-edge applications and systems."
+Cloud DevOps Engineer,Aplin,Jooble,Full-time,"If you are a talented and experienced Cloud DevOps Engineer, Aplin has the right opportunity for you! Our Edmonton-based client is a forward-thinking company that prides themselves on delivering cutting-edge solutions to their clients, powered by the latest in cloud technology. As they continue to scale, they are seeking a skilled DevOps and Infrastructure Engineer with deep expertise in Azure, Google Cloud Platform (GCP), Kubernetes, Helm, and Terraform to join the team.
+
+The current cloud provider is Azure and they are moving over to GCP. Currently, they utilize Azure portal, Office 365, MS SQL and some legacy setup such as virtual machines for product servers. They are looking for a highly skilled and experienced DevOps and Infrastructure Engineer to manage and optimize the multi-cloud infrastructure, with a strong emphasis on Kubernetes orchestration using Helm and infrastructure as code (IaC) with Terraform. The ideal candidate will have substantial experience with both Microsoft Azure and Google Cloud Platform (GCP), and be proficient in automating, monitoring, and securing cloud environments.
+Please note: This role is full-time in the office
+
+Responsibilities:
+• Multi-Cloud Infrastructure Management: Design, implement, and manage scalable, reliable, and secure cloud infrastructure across Microsoft Azure and Google Cloud Platform (GCP).
+• Kubernetes Orchestration: Deploy, manage, and scale containerized applications using Kubernetes on both Azure Kubernetes Service (AKS) and Google Kubernetes Engine (GKE). Utilize Helm for package management and deployment.
+• CI/CD Pipelines: Develop and maintain CI/CD pipelines using tools such as GitLab, Google Cloud Build, and Jenkins, ensuring efficient and reliable deployment processes.
+• Infrastructure as Code (IaC): Utilize Terraform to automate the provisioning and management of cloud infrastructure across Azure and GCP, ensuring consistency and version control of infrastructure changes.
+• Monitoring & Performance: Implement and maintain robust monitoring, logging, and alerting systems using tools like Azure Monitor, Google Cloud Operations Suite, Prometheus, and Grafana to ensure optimal infrastructure performance.
+• Security: Apply best practices for cloud security, including network security, identity and access management, and encryption. Regularly assess and enhance the security posture of our cloud environments.
+• Collaboration: Work closely with development teams to provide infrastructure and tooling support, enabling agile development practices and improving overall efficiency.
+• Incident Management: Participate in on-call rotation for infrastructure-related incidents, conducting root cause analysis and implementing preventative measures to minimize future disruptions.
+• Cost Optimization: Continuously monitor and optimize cloud infrastructure costs on Azure and GCP, making data-driven recommendations for more efficient resource utilization.
+Qualifications:
+• Experience: Minimum of 5 years of experience in DevOps, Infrastructure Engineering, or a related field, with strong expertise in Azure, Google Cloud Platform, Kubernetes, Helm, and Terraform.
+• Kubernetes Expertise: Proven experience in deploying and managing Kubernetes clusters on Azure AKS and GCP GKE. Proficiency with Helm for package management.
+• Cloud Expertise: Proficient in core Azure and GCP services, including Azure VMs, Azure Kubernetes Service, Compute Engine, Google Kubernetes Engine, and associated networking and storage solutions.
+• Infrastructure as Code (IaC): Extensive experience with Terraform for automating cloud infrastructure deployments and management.
+• Automation & CI/CD: Hands-on experience with building and maintaining CI/CD pipelines using GitLab DevOps, Google Cloud Build, Jenkins, or similar tools.
+• Scripting & Automation: Proficiency in scripting languages such as Python, Bash, or PowerShell for automation tasks.
+• Monitoring & Logging: Experience with monitoring and logging tools like Prometheus, Grafana, Azure Monitor, and Google Cloud Operations Suite.
+• Security Best Practices: Strong knowledge of cloud security best practices, including IAM, encryption, and compliance requirements for cloud environments.
+• Problem-Solving: Strong analytical and troubleshooting skills with a proactive approach to problem-solving.
+• Communication: Excellent communication and collaboration skills, with the ability to work effectively in a team environment.
+• Certifications: Azure, GCP, Kubernetes, or Terraform certifications (e.g., Azure Solutions Architect, Google Professional Cloud Architect, Certified Kubernetes Administrator) are a plus.
+
+David Aplin & Associates Inc., operating as Aplin, and its associated brands, CompuStaff and Impact Recruitment, is an award-winning employment agency connecting diverse, top-tier talent with exceptional organizations across North America. We welcome applicants from all backgrounds and charge no fees to apply or engage with our recruiters. Our clients partner with us to help expand and diversify their teams. Please note that all applicants must be legally entitled to work in Canada, including holding any necessary work permits.
+#J-18808-Ljbffr"
+Cloud Infrastructure Engineer,Vantix Systems Inc.,BeBee Canada Meet Opportunities,Full-time,"Job Description
+
+Vantix Systems Inc. is seeking a highly skilled Senior System Administrator / Network Engineer to provide Azure Active Directory, Microsoft 365, and AWS/Azure infrastructure administration and troubleshooting.
+
+The ideal candidate will have experience with supported Windows server operating systems, Active Directory, Azure Active Directory, Exchange 2016 and Blackberry UEM, VMware ESXi server 6.x/7.x, XenApp 7.x, enterprise backup solutions, Storage Area Networks, and enterprise-grade server hardware.
+
+This role requires strong scripting skills in PowerShell, as well as expertise in MFA, SSO, and identity management standards like SAML and OAuth. Familiarity with profile management solutions such as FSLogix and working knowledge of SolarWinds for monitoring, reporting, and alerting are also essential.
+
+We are looking for a self-motivated individual with exceptional written and oral communication skills, strong interpersonal, customer service, teamwork, problem-solving, and troubleshooting abilities. The ability to rapidly acquire in-depth knowledge of unfamiliar systems through research and self-learning is crucial.
+
+The successful candidate will be able to work independently to effectively prioritize and execute tasks in a mission-critical high-pressure environment. Physical requirements of the job include lifting up to 35 kilograms."
+Senior DevOps / Cloud Engineer,Riva,Jooble,Full-time,"Riva is looking for an experienced Senior AWS Cloud DevOps Engineer to join our team. If you have experience supporting enterprise SaaS deployments in AWS, you thrive in a collaborative team environment, enjoy solving problems, and are a self-starter who needs little guidance then this position could be a great fit for you.
+
+Reporting to the Director of Product Engineering, you will work closely with other DevOps team members, the Chief Architect, and the CTO to ensure that AWS services are provisioned, maintained, and restored to support cloud app development and delivery, and support the Cloud Operations team to support deployment to AWS instances.
+
+Implement and maintain CI/CD pipelines to automate deployment processes.
+• Monitor and optimize cloud resources to ensure high availability, performance, and security within acceptable operational cost restraints.
+• Help in response to performance and security issues identified by alerting and reporting incidents.
+• Prepare architectural, technical, and procedural documentation for consumption by technical staff.
+• Mentor and guide other DevOps staff, fostering a culture of continuous learning and improvement.
+• Participate in design and development of learning paths for use of AWS services by developers, testers, and DevOps staff.
+
+Bachelor’s degree in Cloud Services, IT Management, Computer Science, Software Engineering, or equivalent education & experience.
+• 5+ years of proven work experience as an AWS Cloud Engineer or a DevOps engineer with extensive AWS cloud expertise with a focus on enterprise SaaS projects.
+• Strong skills resolving AWS cloud networking and security issues.
+• Experience with deployment and configuration as code (CaC) tools like Octopus Deploy or Ansible.
+• Proficiency in scripting languages such as Bash, PowerShell, or Python. Strong scripting and automation skills using scripting languages. Be familiar with JSON and YAML configuration files.
+• Experience with monitoring tools to establish alerts and notifications using Splunk and CloudWatch.
+• You must be able to communicate fluently in written and spoken English.
+• Knowledge of Web Application Architecture patterns, including Micro-App and Micro-Service architectures.
+• IT Certifications: AWS Solutions Architect or AWS SysOps Administrator, AWS DevOps Engineer, AWS Cloud Security.
+• Project Management Certifications: PMP, CAMP, Project+.
+
+Analytical Thinking & Decision Making: Ability to approach problems by relying on logic, data, and facts. Managing Resources & Digital Dexterity: We are an Edmonton-based software development company with a global footprint. Our Relationship Engine creates seamless data flow between applications like email, calendar, contacts, and tasks and CRM – synchronizing data and eliminating the need for task switching, application toggling, and data entry duplication across platforms.
+
+We offer a work culture that fosters diversity, equity, inclusion, and fun. Paid wellness time allowing for flexible discretionary allocation for mental health, personal benefits, and personal time.
+
+Extended health care benefits, dental and life insurance.
+
+Professional development and training allowance for career advancement.
+
+Must hold a valid work permit or be a permanent resident or citizen of Canada.
+
+Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status.
+
+#"
+Senior Cloud Engineer (f/m/d) - Remote,Alberta Investment Management Co,Jooble,Full-time,"Our flexible work style lets you work remotely while allowing regular visits to our vibrant offices, where you can soak up our culture and collaborate with colleagues.
+We are seeking a dedicated and skilled Cloud Engineer to manage our Azure infrastructure and support our data platform built on Databricks. In this pivotal role, you'll leverage your expertise in Terraform for infrastructure provisioning, maintain CI/CD pipelines in Azure DevOps, manage cloud costs, and ensure optimal performance and security across our cloud platforms.
+Utilize Terraform to provision and manage Azure infrastructure, integrating SaaS applications with our data platform built on Databricks and Snowflake.
+Networking and Security Design:
+~ Design, implement, and maintain Azure networking components, while implementing security measures to ensure compliance with organizational policies.
+
+CI/CD Pipeline Management:
+~ Establish and manage pipelines for continuous integration and deployment of Azure infrastructure changes with Azure DevOps, collaborating closely with cross-functional teams.
+
+Monitoring and Optimization:
+Ensure compliance with organizational security policies and standards, implementing necessary controls and measures.
+Develop and support backup and disaster recovery solutions, ensuring data integrity, availability, and business continuity.
+
+A Bachelor’s degree in Computer Science, Information Technology, or a related field. Microsoft Certified Azure Solutions Architect) are preferred.
+• Proven experience with Terraform for Infrastructure as Code (IaC), Azure networking, security implementations, and Azure DevOps CI/CD pipeline management.
+• Final candidates will be asked to undergo a security screening, which includes a credit bureau and a criminal record investigation, the results of which must be acceptable to AIMCo.
+
+Alberta Investment Management Corporation (AIMCo) is one of Canada’s largest and most diversified institutional investment managers with more than CAN$160 billion of assets under management. AIMCo invests globally on behalf of multiple pension, endowment, insurance and government funds in the Province of Alberta."
+DevOps Engineer,RECRUITMENT PARTNERS,Trabajo.org,Full-time,"As a Cloud Infrastructure Specialist at Recruitment Partners, you will be responsible for designing and implementing scalable cloud-based infrastructure solutions. Your expertise in cloud architecture, engineering, and automation will ensure seamless flow of code through development, testing, deployment, and production environments.
+Key Responsibilities
+• Design and implement CI/CD pipelines for automated software testing, deployment, and monitoring across various environments.
+• Manage cloud-based infrastructure including provisioning, scaling, security, and cost optimization.
+• Develop and maintain scripts and tools to automate manual tasks in infrastructure management, deployment, and system administration.
+• Collaborate with development, QA, and operations teams to ensure smooth deployment and high availability of services.
+Requirements
+• Strong technical background in cloud architecture and engineering, CI/CD automation, data engineering, and big data technologies.
+• Proficient in working with Databricks, Azure DevOps, and Terraform.
+• Excellent communication and collaboration skills to work effectively in cross-functional teams."
+Cloud Infrastructure Strategist,myGwork,Trabajo.org,Full-time,"About the Role:
+"">
+
+We are seeking a skilled DevOps leader to join our team and lead DevOps engineering for the SmartHome+ platform at TELUS. As a key member of our team, you will be responsible for developing and scaling our cloud infrastructure to meet the needs of millions of consumers globally.
+"">
+
+Responsibilities:
+"">
+• "">
+• Lead and mentor a diverse team of DevOps software engineers in a DevOps and Agile mindset"">
+• Build, deploy, operate, and optimize our AWS serverless Cloud infrastructure for high availability, quality, and continuous operations"">
+• Collaborate with internal stakeholders to understand requirements and priorities for infrastructure, CI/CD, security, observability, change management, releases, reliability, scalability, and incidents"">
+• Select and collaborate with external vendor partners to meet solution requirements"">
+• Develop strategy and lead execution of our cloud infrastructure with leadership, product management, principal architects, backend, and client device development teams and strategic partners like AWS"">
+"">
+
+Qualifications:
+"">
+• "">
+• AWS specifically serverless or EKS (Kubernetes), ideally both"">
+• CDK"">
+• TypeScript"">
+• General DevOps toolsets in AWS"">
+• Understanding of IaC and best practices"">
+• Lambda, API Gateway"">
+• Terraform or cloudformation"">
+• IP networking and security principles"">
+• Microservice architectures and API management"">
+• CI/CD Pipelines experience"">
+• Agile Development (SAFE)"">
+• 3+ years of relevant technical team leadership experience"">
+• Strong communicator"">
+• Confident with presenting material to peers and senior management"">
+• Experience with leading a team and collaborating with internal/external teams across multiple time zones and countries"">
+• Experience with on-call operations and incident resolution"">
+• Experience working with vendors to define MSAs and onboarding new technologies"">
+• Experience deploying automation, improving reliability, and optimizing cloud costs"">
+• Bachelors in Software or Electrical Engineering Degree, Computer Science"">
+"">
+
+About myGwork:
+"">
+
+TELUS is an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ+ business community. We strive to foster a culture of diversity and inclusivity where everyone feels welcome and valued.
+"">
+
+Why Work Here?
+"">
+
+As a DevOps Manager for our SmartHome+ platform, you will have the opportunity to shape the product vision, create first-of-its-kind products, and lead a high-performance team that will realize this product vision and deliver significant business results.
+"">
+
+What You'll Get:
+"">
+• "">
+• An exciting opportunity to work on cutting-edge technology"">
+• The chance to develop and scale a global platform"">
+• A collaborative and inclusive work environment"">
+• Competitive compensation and benefits package"">
+• Ongoing training and professional development opportunities"">
+"">
+
+Ready to Apply?
+"">
+
+Please submit your application through our website. We look forward to hearing from you
+"">
+
+About Us:
+"">
+
+At myGwork, we are committed to creating a workplace where everyone feels welcome and valued. We believe that diversity and inclusion are essential to driving innovation and success. Our mission is to empower the LGBTQ+ community and their allies to reach their full potential."
+Senior Cloud Security Architect,David Aplin Recruiting,Jooble,Full-time,"If you’re a talented and experienced Cloud Security Architect, Aplin has the right opportunity for you. Our client, a leader in their field, is looking for a Cloud Security Architect. Reporting to the Senior Manager, IT Security, Risk and Compliance.
+
+The Cloud Security Architect leads security architecture activities that guide the development and management of a portfolio of cloud-enabled solutions. They take ownership of providing architectural and security leadership, execution, and governance of services running on cloud platforms. The architect collaborates across divisions to provide guidance, recommendations, and implementation advice aligned with the overarching cloud strategy. The role delivers security assessments, strategies, and roadmaps for cloud solutions, designing reusable components, standards, and frameworks to support the organization’s cloud security initiatives. The Cloud Security Architect works closely with enterprise, domain, and solution architects, external consultants, and product delivery teams to ensure solutions align with security principles and standards.
+
+Cloud Security Architecture:
+
+Translate business strategies into cloud security architecture.
+
+Lead security design and analysis for cloud solutions.
+
+Security Delivery:
+
+Define principles, guidelines, and solution patterns for cloud security.
+
+Develop roadmaps for the evolution of the enterprise’s cloud security portfolio.
+
+Create and maintain security technology standards and documentation.
+
+Provide mentorship to support teams on cloud security practices.
+
+Minimum of a Degree in Computer Science or a related field.
+• 4+ years of experience in cloud security architecture and project leadership.
+• Advanced understanding of security frameworks (ISO 27000 series, NIST CSF, CSA).
+• Knowledge of identity and access management, policies, and auditing.
+• Proficiency in IT service management (ITSM) and ITIL standards.
+• CCSP, CISSP, Azure Security Engineer, AWS Security Specialty).
+
+operating as Aplin, and its associated brands, CompuStaff and Impact Recruitment, is an award-winning employment agency connecting diverse, top-tier talent with exceptional organizations across North America. Our clients partner with us to help expand and diversify their teams. Please note that all applicants must be legally entitled to work in Canada, including holding any necessary work permits.
+
+#"
+Cloud Infrastructure Architect,Alberta Investment Management Co,Ca.bebee.com,Full-time,"Job Description
+
+We are seeking a seasoned Cloud Engineer with expertise in implementing and maintaining robust Azure infrastructure. The successful candidate will leverage their knowledge of Terraform for infrastructure provisioning, manage CI/CD pipelines in Azure DevOps, and ensure optimal performance and security across our cloud platforms.
+Responsibilities:
+• Provision and manage Azure infrastructure using Terraform, integrating SaaS applications with our data platform built on Databricks and Snowflake.
+• Support and manage infrastructure for Azure Integration Services and containerization technologies, such as Azure Container Apps and Azure Kubernetes Service (AKS).
+• Design, implement, and maintain Azure networking components, while implementing security measures to ensure compliance with organizational policies.
+• Establish and manage pipelines for continuous integration and deployment of Azure infrastructure changes with Azure DevOps, collaborating closely with cross-functional teams.
+• Monitor and optimize the Azure environment and apply FinOps best practices to maximize business value of the cloud."
+Cloud DevOps Engineer,Aplin,Trabajo.org,Full-time,"If you are a talented and experienced Cloud DevOps Engineer, Aplin has the right opportunity for you Our Edmonton-based client is a forward-thinking company that prides themselves on delivering cutting-edge solutions to their clients, powered by the latest in cloud technology. As they continue to scale, they are seeking a skilled DevOps and Infrastructure Engineer with deep expertise in Azure, Google Cloud Platform (GCP), Kubernetes, Helm, and Terraform to join the team.
+
+The current cloud provider is Azure and they are moving over to GCP. Currently, they utilize Azure portal, Office 365, MS SQL and some legacy setup such as virtual machines for product servers. They are looking for a highly skilled and experienced DevOps and Infrastructure Engineer to manage and optimize the multi-cloud infrastructure, with a strong emphasis on Kubernetes orchestration using Helm and infrastructure as code (IaC) with Terraform. The ideal candidate will have substantial experience with both Microsoft Azure and Google Cloud Platform (GCP), and be proficient in automating, monitoring, and securing cloud environments.
+
+Please note: This role is full-time in the office
+
+Responsibilities:
+
+1. Multi-Cloud Infrastructure Management: Design, implement, and manage scalable, reliable, and secure cloud infrastructure across Microsoft Azure and Google Cloud Platform (GCP).
+2. Kubernetes Orchestration: Deploy, manage, and scale containerized applications using Kubernetes on both Azure Kubernetes Service (AKS) and Google Kubernetes Engine (GKE). Utilize Helm for package management and deployment.
+3. CI/CD Pipelines: Develop and maintain CI/CD pipelines using tools such as GitLab, Google Cloud Build, and Jenkins, ensuring efficient and reliable deployment processes.
+4. Infrastructure as Code (IaC): Utilize Terraform to automate the provisioning and management of cloud infrastructure across Azure and GCP, ensuring consistency and version control of infrastructure changes.
+5. Monitoring & Performance: Implement and maintain robust monitoring, logging, and alerting systems using tools like Azure Monitor, Google Cloud Operations Suite, Prometheus, and Grafana to ensure optimal infrastructure performance.
+6. Security: Apply best practices for cloud security, including network security, identity and access management, and encryption. Regularly assess and enhance the security posture of our cloud environments.
+7. Collaboration: Work closely with development teams to provide infrastructure and tooling support, enabling agile development practices and improving overall efficiency.
+8. Incident Management: Participate in on-call rotation for infrastructure-related incidents, conducting root cause analysis and implementing preventative measures to minimize future disruptions.
+9. Cost Optimization: Continuously monitor and optimize cloud infrastructure costs on Azure and GCP, making data-driven recommendations for more efficient resource utilization.
+
+Qualifications:
+
+1. Experience: Minimum of 5 years of experience in DevOps, Infrastructure Engineering, or a related field, with strong expertise in Azure, Google Cloud Platform, Kubernetes, Helm, and Terraform.
+2. Kubernetes Expertise: Proven experience in deploying and managing Kubernetes clusters on Azure AKS and GCP GKE. Proficiency with Helm for package management.
+3. Cloud Expertise: Proficient in core Azure and GCP services, including Azure VMs, Azure Kubernetes Service, Compute Engine, Google Kubernetes Engine, and associated networking and storage solutions.
+4. Infrastructure as Code (IaC): Extensive experience with Terraform for automating cloud infrastructure deployments and management.
+5. Automation & CI/CD: Hands-on experience with building and maintaining CI/CD pipelines using GitLab DevOps, Google Cloud Build, Jenkins, or similar tools.
+6. Scripting & Automation: Proficiency in scripting languages such as Python, Bash, or PowerShell for automation tasks.
+7. Monitoring & Logging: Experience with monitoring and logging tools like Prometheus, Grafana, Azure Monitor, and Google Cloud Operations Suite.
+8. Security Best Practices: Strong knowledge of cloud security best practices, including IAM, encryption, and compliance requirements for cloud environments.
+9. Problem-Solving: Strong analytical and troubleshooting skills with a proactive approach to problem-solving.
+10. Communication: Excellent communication and collaboration skills, with the ability to work effectively in a team environment.
+11. Certifications: Azure, GCP, Kubernetes, or Terraform certifications (e.g., Azure Solutions Architect, Google Professional Cloud Architect, Certified Kubernetes Administrator) are a plus.
+
+David Aplin & Associates Inc., operating as Aplin, and its associated brands, CompuStaff and Impact Recruitment, is an award-winning employment agency connecting diverse, top-tier talent with exceptional organizations across North America. We welcome applicants from all backgrounds and charge no fees to apply or engage with our recruiters. Our clients partner with us to help expand and diversify their teams. Please note that all applicants must be legally entitled to work in Canada, including holding any necessary work permits.
+
+#J-18808-Ljbffr"
+devops engineer,Trustedsavvy,Job Bank,Full-time,"Education: Bachelor's degree. or equivalent experience. Work setting: Willing to relocate. Consulting firm. Software company. Information technology (IT) service provider. Information technology (IT) infrastructure. Tasks: Collect and document user's requirements. Coordinate the development, installation, integration and operation of computer-based systems. Define system functionality. Develop flowcharts, layouts and documentation to identify solutions. Develop process and network models to optimize architecture. Develop software solutions by studying systems flow, data usage and work processes. Execute full lifecycle software development. Plan every step of the integration of a computer-based system. Prepare plan to maintain software. Research technical information to design, develop and test computer-based systems. Synthesize technical information for every phase of the cycle of a computer-based system. Upgrade and maintain software. Lead and co-ordinate teams of information systems professionals in the development of software and integrated information systems, process control software and other embedded software control systems. Usability testing. Develop and maintain computer databases. Setup the IT infrastructure to allow applications to access databases. Monitor the performance of computer systems and networks. Install software. Collect data to identify areas for improvement within an organization's IT infrastructure. Computer and technology knowledge: Agile. Business intelligence. Cloud. Development and operations (DevOps). Eclipse. Informatica. Jenkins. Jira. Shell script. Virtualization. Environment - Centralized. Environment - Client/Server. Environment - Distributed. Linux. Networking software. HTML. MS Windows. DHTML. Internet. XML Technology (XSL,XSD,DTD). Desktop applications. File management software. Security software. Unix. CSS. PHP. Project management software. Programming software. HTML editing software. Web service design. SQL. Database software. Programming languages. Software development. Data analysis software. MS Office. Oracle. Amazon Web Services (AWS). Angular.js. Git. React Native. React.js. Ruby. Ruby on Rails. Python. Ansible. Atlassian Confluence. GitHub. Microservices. MS Active Directory. Postman. Software quality assurance. Ubuntu. Unix Shell Scripting. Virtual Storage Access Method (VSAM). MAC. MS Excel. MS Outlook. MS SQL Server. Area of specialization: Scrum. System integration. Cybersecurity. Testing. Business methods analysis. Networks. Development of quality assurance programs. Security and safety: Criminal record check. Work conditions and physical capabilities: Fast-paced environment. Work under pressure. Tight deadlines. Repetitive tasks. Attention to detail. Personal suitability: Accurate. Client focus. Efficient interpersonal skills. Excellent oral communication. Excellent written communication. Initiative. Organized. Team player. Screening questions: Are you currently a student?. Are you currently legally able to work in Canada?. Experience: 1 year to less than 2 years. Workplace information: Hybrid. Financial benefits: Bonus. Other benefits: Free parking available. Learning/training paid by employer. Team building opportunities."
+Senior AWS Cloud DevOps Engineer,"Riva International, Inc.",BeBee Canada Meet Opportunities,Full-time,"Senior AWS Cloud DevOps Engineer
+
+Riva is seeking an experienced Senior AWS Cloud DevOps Engineer to support enterprise SaaS deployments in AWS.
+
+This position is ideal for those who thrive in a collaborative team environment, enjoy solving problems, and are self-starters who require minimal guidance.
+Key Responsibilities
+• Design, deploy, and manage AWS cloud infrastructure for enterprise SaaS applications.
+• Implement and maintain CI/CD pipelines to automate deployment processes.
+• Monitor and optimize cloud resources to ensure high availability, performance, and security within acceptable operational cost restraints.
+• Troubleshoot and resolve issues related to cloud infrastructure and services to maintain company service levels.
+• Support the integration and use of AWS containerization and AI services into our solutions.
+• Collaborate with development teams to integrate cloud solutions with application architectures.
+Requirements
+• Bachelor's degree in Cloud Services, IT Management, Computer Science, Software Engineering, or equivalent education & experience.
+• 5+ years of proven work experience as an AWS Cloud Engineer or a DevOps engineer with extensive AWS cloud expertise with a focus on enterprise SaaS projects.
+• Strong skills resolving AWS cloud networking and security issues.
+• Experience managing AWS services, including EC2, S3, RDS, Lambda, VPC, and CloudWatch.
+• Proficiency in scripting languages such as Bash, PowerShell, or Python. Strong scripting and automation skills using scripting languages.
+What We Offer
+• Total compensation package including RRSP/IRA matching.
+• Paid vacation starting with 3-weeks.
+• Paid wellness time allowing for flexible discretionary allocation for mental health, personal benefits, and personal time.
+• Extended health care benefits, dental and life insurance.
+• Professional development and training allowance for career advancement."
+"Engineer, Software Engineer",GPS Insight,Learn4Good,Full-time,"Position: Senior.NET Engineer
+Who We Are Certified Tracking Systems, Inc ., - an Edmonton company backed by Scottsdale-based GPS Insight - is a leader in the GPS tracking and fleet management industry. Using our cloud-based user interface and custom hardware, we provide solutions for customers in various industries all over the world. Our success can be attributed to our dedicated employees, attention to detail and our commitment to customer loyalty.
+
+To learn more about Certified Tracking Solutions and GPS Insight, visit gpsinsight. We know that when you invest in high-performance technology, you achieve results and maximize your return. We feel the same way about our people at GPS Insight. They are what allow us to build world-class solutions that make us leaders in the fleet and field service management space.
+
+They are what enable our customers' success. They are our greatest asset. As a result, we take pride in a workplace committed to those who make us go.
+
+Our commitment to growth enables us to push the telematics and field service operations industries forward. It's rooted in our products, embedded in our culture, and reflected in our team-first values. We're looking for the right people to jump onboard with us. Are you ready to take the ride? What We Need Certified Tracking Solutions (CTS) is seeking a Senior .NET
+
+Engineer to join our engineering team in Edmonton, working on our Field Services product Service Bridge. As a self-starter with a curious mind, you will design, develop, and maintain robust web applications.
+
+Your role includes writing efficient code, managing database migrations, optimizing cloud infrastructure, and collaborating with cross-functional teams. You will also investigate and resolve bugs, ensuring our applications are intuitive and engaging. If you thrive in a fast-paced, innovative environment and are driven to create outstanding user experiences, we want to hear from you. CTS is rapidly growing and increasing the depth, breadth, and flexibility of our platform to deliver actionable insights and exceptional value to our customers.
+
+As a Senior Full Stack Engineer, you will have a significant impact on critical projects, including architectural improvements to achieve the next level of robustness and scalability, integrating with the rest of GPSI's software platform, and introducing new technologies to greatly increase our data management and analysis capabilities. What You'll Do Develop your technical leadership on a development team, owning the technical design and providing guidance on architectural decisions Perform peer reviews for other developers, ensuring integrity and effectiveness of new features.
+
+Design and architect new features for scalability and performance. Provide estimates for project duration and complexity. Write efficient, reusable, and reliable code. Implement complex business logic and workflows to ensure robust and efficient application functionality. Manage MSSQL and Postgre
+
+SQL databases and their migrations, ensuring the application is optimized for high performance and scale. Work with platform and Dev Ops teams in AWS to define and maintain our cloud resources efficiently. Work with both internal and external team members to collaborate on key objectives. Continuously optimize code for performance, responsiveness, and quality. Identify and fix bugs and issues in the application.
+
+Participate in all agile ceremonies including grooming, planning, stand up, review and retrospective. Update and maintain software code documentation including flowcharts and architecture diagrams to ensure clarity and continuity. Create and maintain RESTful / Graph
+
+QL APIs to enable communication between front-end and back-end systems. Monitor application health and suggest maintenance initiatives to improve reliability Work with the product team to perform gap analysis on designs and requirements. Requirements Minimum of 7 years proven experience as a .NET Developer or in a similar role. Strong proficiency in .NET Core, NodeJS, ASP, CORE MVC. Proficiency in MSSQL/Postgre
+
+SQL database management. Familiarity with front-end technologies. Expert Git skills. Strong understanding of software…"
+Cloud Services,BDO,BeBee Canada Meet Opportunities,Full-time,"Putting People First
+
+BDO is a firm built on a foundation of positive relationships with our people and our clients. Each day, our professionals provide exceptional service, helping clients with advice and insight they can trust. In turn, we offer an award-winning environment that fosters personal and professional growth.
+
+Your Opportunity
+
+We are seeking skilled individuals to join our team in a high growth setting as an Operations Lead. You will be responsible for streamlining processes, improving efficiencies, and ensuring our clients receive world-class service.
+
+Your growth and development are important to your future, and we strive toward aligning individuals to focus on strengths and to develop skills to overcome weaknesses.
+• Leverage your ability to contribute to a fast-paced Cloud sales cycle, focusing on onboarding responsibilities such as creating reports, contracts, and initial client setup.
+• Provide pre-sales pricing and subscription support to BDO employees and customers on Microsoft CSP and Cloud based Solutions, providing excellent customer service.
+• Process and track orders, client invoicing and reconciliations while working closely with other billing team members to ensure accuracy.
+• Provide training and support to internal and external customers on Office 365, Dynamics 365 and BDO Cloud offerings, including issues with configurations and implementations.
+• Provide quality assurance checks for quotes, contracts, and other outbound work.
+• Act as a contact person for new or existing clients and for the sales lifecycle, including preparing proposals, change orders.
+• Focus on operations improvement by automating and streamlining existing processes to make them more efficient.
+• Develop tools, processes and research information necessary to evolve cloud operations.
+• Additional administrative support and participation in special projects as required.
+
+How do we define success for your role?
+• You demonstrate BDO's core values through all aspects of your work: Integrity, Respect and Collaboration.
+• You understand your client's industry, challenges, and opportunities; clients describe you as positive, professional, and delivering high-quality work.
+• You identify, recommend, and are focused on effective service delivery to your clients.
+• You share in an inclusive and engaging work environment that develops, retains & attracts talent.
+• You actively participate in the adoption of digital tools and strategies to drive an innovative workplace.
+• You grow your expertise through learning and professional development.
+
+Your experience and education
+• You have completed your undergraduate degree in IT Management, Business Administration, or Business-related program with a focus on Technology.
+• You have 5-7 years of combined work experience (this could be through co-op or internship work).
+• You are passionate about cloud technology and have a willingness to learn new technologies.
+• You have practical knowledge of professional, effective telephone techniques and customer care.
+• You have excellent written and verbal communication skills.
+• You have strong problem-solving skills and attention to detail.
+• You enjoy improving and taking ownership of processes.
+• You are able to prioritize with the flexibility to manage multiple tasks and variable workload.
+
+The following are considered an asset:
+• Experience in a previous business operations, customer service and/or sales capacity.
+• Working toward a professional certification, such as PMP, Lean Six Sigma, or ITIL.
+• Experience in process and operations improvement.
+• Experience with Microsoft or Cloud platforms.
+• Experience with Finance and Line of Business systems.
+• Understanding of IT and software business landscape.
+• Proficient in MS Office Applications, such as Microsoft Excel."
+IT Cloud Administrator,Peace Hills Insurance,Trabajo.org,Full-time,"This role requires hand-on experience researching, recommending, implementing, and monitoring technical solutions to address business problems, focusing on effectiveness, efficiency, and automation to deliver to Peace Hills Insurance’s objectives. The administrator also works closely with other team members and stakeholders to design, implement, and optimize the cloud solutions that meet business needs and objectives. This role continues to evolve and implement the technology policies, standards, procedures, and operational best practices, in order to efficiently and effectively enable Peace Hills Insurance.
+• *Duties and Responsibilities**:
+
+- Provides the highest standard of IT support and operation services, attuned to the needs of business, and backed by a commitment to customer service.
+- Configure and automate the cloud operations and processes, using tools and scripts to improve efficiency and reliability.
+- Manage and maintain AWS environments and services (VPC, EC2, S3, VPN, Control Tower, Amazon Connect, Backup and Disaster Recovery, Security Services)
+- Maintain, manage, and design a hybrid architecture using key AWS technologies as well as a continuous integration and deployment process.
+- Provide guidance of cloud services and optimize cloud resources and costs.
+- Analyzes problem trends and gathers requirements from the business to assist in the continual improvement of the IT services
+- Collaborate with technical team members to deploy and support cloud-based solutions.
+- Implement and enforce the cloud policies and standards, such as access control, encryption, backup, disaster recovery, and compliance.
+- Participate in meetings with the IT department to discuss progress and issues to be resolved, and report progress as necessary to management including supporting the generation of the weekly IT dashboard
+- Research, design, and/or implementation of appropriate technologies to support and/or improve corporate communications, access to information, and end-user productivity.
+- Develop and maintain successful and professional internal working relationships with all software development department and end-users
+- Participate in the on call rotation
+- Other duties as required
+• *Prior experience and qualifications of interest include**:
+
+- Completion of a post-secondary program in a relevant field
+- Minimum 5+ years’ experience in IT Cloud and Networking experience is required.
+- Completion of a minimum of 2 AWS certifications
+- Working knowledge of ITIL processes; ITIL certification is preferred.
+- Demonstrated knowledge of security fundamentals and best practices
+- Subject Matter Expertise in the following: AWS CLI, AWS APIs, VPC, EC2, S3, AWS Infrastructure-as-Code, AWS Billing Console, AWS Management Console, a scripting language, and Windows and Linux environments.
+- Familiar with AWS DevOps, AWS CloudFormation, Windows (10, Server), Virtual Machines, Azure Active Directory, Microsoft 365 (Exchange Online, SharePoint, Teams, Auto Pilot, and Intune)
+- Experience working with IT ticketing systems such as Remedy, Manage Engine, JIRA Service Desk, or Service Now.
+- Strong written and verbal communication skills
+- Innovative, forward thinker able to manage multiple priorities
+- Strong customer service skills and the ability to build and maintain relationships across the organization
+- Commitment to continuous improvement
+• *Working at Peace Hills**
+
+Peace Hills understands that by reducing work-life struggles, individuals can enjoy a healthier lifestyle while improving productivity at work. Providing a collegial work environment and a work life balance are just two of the ways we do this.
+
+Flexible Language Requirement:
+
+- French not required
+
+Schedule:
+
+- Monday to Friday
+
+Work Location: In person"
+Azure Platform Engineer,Alberta Investment Management Co,BeBee Canada Meet Opportunities,Full-time,"DESCRIPTIONS2：
+
+Job Overview
+"">
+
+We are seeking a highly skilled Cloud Engineer to join our team and contribute to the design, implementation, and maintenance of our Azure infrastructure. As a key member of our team, you will leverage your expertise in Terraform for infrastructure provisioning, maintain CI/CD pipelines in Azure DevOps, manage cloud costs, and ensure optimal performance and security across our cloud platforms.
+"">
+
+Key Accountabilities
+"">
+
+- Design and implement Azure infrastructure using Terraform, integrating SaaS applications with our data platform built on Databricks and Snowflake.
+"">
+
+- Support and manage infrastructure for Azure Integration Services and containerization technologies, such as Azure Container Apps and Azure Kubernetes Service (AKS).
+"">
+
+- Develop and maintain Azure networking components, ensuring compliance with organizational policies and standards.
+"">
+
+- Collaborate with cross-functional teams to establish and manage pipelines for continuous integration and deployment of Azure infrastructure changes with Azure DevOps.
+"">
+
+- Monitor and optimize the Azure environment, applying FinOps best practices to maximize business value of the cloud.
+"">
+
+- Ensure compliance with organizational security policies and standards, implementing necessary controls and measures.
+"">
+
+Requirements
+"">
+
+To be successful in this role, you will require:
+"">
+
+- A Bachelor's degree in Computer Science, Information Technology, or a related field. Advanced certifications in Azure (e.g., Microsoft Certified Azure Solutions Architect) are preferred.
+"">
+
+- 3-5 years of experience as a Cloud Engineer or similar role, with a focus on Azure cloud services and infrastructure.
+"">
+
+- Proven experience with Terraform for Infrastructure as Code (IaC), Azure networking, security implementations, and Azure DevOps CI/CD pipeline management.
+"">
+
+- Experience with Databricks and Snowflake.
+"">
+
+- Familiarity with FinOps principles for cloud cost management.
+"">
+
+- Excellent problem-solving and communication skills, with the ability to collaborate effectively across teams.
+"">
+
+- Strong understanding of backup and disaster recovery best practices in cloud environments.
+"">
+
+About Us
+"">
+
+AIMCo is committed to providing a positive and supportive work environment that allows our employees to grow and develop their careers. We believe in recognizing and rewarding outstanding performance and contributions to our organization."
+Edge Computing Engineer,Tbwa ChiatDay Inc,Trabajo.org,Full-time,"Key Responsibilities
+• Engineer cloud-native architectures using container orchestration, infrastructure-as-code, and automation tools to ensure compatibility and performance in Linux-based edge computing setups.
+• Integrate existing Shift5 software components to build cohesive solutions that operate reliably on edge computing devices and scalable infrastructure.
+• Drive innovation within existing products, continuously exploring ways to improve functionality, efficiency, and scalability."
+15h Left: Cloud DevOps Engineer,Aplin,Ca.bebee.com,Full-time,"Job Title: Cloud DevOps Engineer
+
+A forward-thinking company is seeking a skilled DevOps and Infrastructure Engineer with deep expertise in Azure, Google Cloud Platform (GCP), Kubernetes, Helm, and Terraform to manage and optimize the multi-cloud infrastructure.
+Key Responsibilities:
+• Design, implement, and manage scalable, reliable, and secure cloud infrastructure across Microsoft Azure and Google Cloud Platform (GCP).
+• Deploy, manage, and scale containerized applications using Kubernetes on both Azure Kubernetes Service (AKS) and Google Kubernetes Engine (GKE).
+• Develop and maintain CI/CD pipelines using tools such as GitLab, Google Cloud Build, and Jenkins.
+• Utilize Terraform to automate the provisioning and management of cloud infrastructure across Azure and GCP.
+• Implement and maintain robust monitoring, logging, and alerting systems using tools like Azure Monitor, Google Cloud Operations Suite, Prometheus, and Grafana.
+Requirements:
+• Minimum 5 years of experience in DevOps, Infrastructure Engineering, or a related field.
+• Proven experience in deploying and managing Kubernetes clusters on Azure AKS and GCP GKE.
+• Proficient in core Azure and GCP services, including Azure VMs, Azure Kubernetes Service, Compute Engine, Google Kubernetes Engine, and associated networking and storage solutions.
+• Extensive experience with Terraform for automating cloud infrastructure deployments and management."
+"Senior (5+ Years) Azure Cloud Data Engineer to design, develop, document, and maintain data-related applications and systems for our utilities client (Hybr",S.i. Systèmes,Trabajo.org,Full-time,"Our client is seeking a Senior (5+ Years) Data Engineer specialized in Azure Cloud and Python to design, develop, document, and maintain data-related applications and systems for our utilities client (Hybrid Edmonton, AB).
+
+Responsibilities
+
+- Designing, developing, documenting and maintaining applications
+- Actively taking part in our Agile delivery
+- Contributing during sprint planning meetings
+- Participating in daily stand-ups
+- Accepting and acting on feedback from end users
+- Providing constructive feedback through sprint retrospectives
+- Completing development tasks assigned
+- Assisting project architects on their technical decisions
+- Understanding source data(base) relationships
+- Participating in data modelling through DA & into PBI
+
+Must Have
+
+- 5+ years as a Data Engineer
+- Azure Data Factory (ADF)
+- Azure Databricks
+- Python (PySpark)
+- Complex SQL
+- Data modelling
+- Completion of a 4-year Computer Science or Engineering degree, or a 2-year Computer Engineering / System Technology diploma.
+
+Nice to Have
+
+- Development experience using modern web technologies, such as .NET (Framework, Core, and .NET 4.8+)
+- Power BI
+- Snowflake
+- Azure Function Experience in LakeFS Azure DevOps
+- Azure Kubernetes Service
+- Azure Portal, Azure CLI (Azure resource management and configuration)
+- Other Azure services
+- .NET
+- DAX
+
+Apply"
+Senior Cloud Solutions Architect,Alberta Investment Management Co,BeBee Canada Meet Opportunities,Full-time,"DESCRIPTIONS3：
+
+Job Summary
+"">
+
+We are seeking a highly skilled Cloud Engineer to join our team and contribute to the design, implementation, and maintenance of our Azure infrastructure. As a key member of our team, you will leverage your expertise in Terraform for infrastructure provisioning, maintain CI/CD pipelines in Azure DevOps, manage cloud costs, and ensure optimal performance and security across our cloud platforms.
+"">
+
+Key Performance Indicators
+"">
+
+- Design and implement Azure infrastructure using Terraform, integrating SaaS applications with our data platform built on Databricks and Snowflake.
+"">
+
+- Support and manage infrastructure for Azure Integration Services and containerization technologies, such as Azure Container Apps and Azure Kubernetes Service (AKS).
+"">
+
+- Develop and maintain Azure networking components, ensuring compliance with organizational policies and standards.
+"">
+
+- Collaborate with cross-functional teams to establish and manage pipelines for continuous integration and deployment of Azure infrastructure changes with Azure DevOps.
+"">
+
+- Monitor and optimize the Azure environment, applying FinOps best practices to maximize business value of the cloud.
+"">
+
+- Ensure compliance with organizational security policies and standards, implementing necessary controls and measures.
+"">
+
+Requirements
+"">
+
+To be successful in this role, you will require:
+"">
+
+- A Bachelor's degree in Computer Science, Information Technology, or a related field. Advanced certifications in Azure (e.g., Microsoft Certified Azure Solutions Architect) are preferred.
+"">
+
+- 3-5 years of experience as a Cloud Engineer or similar role, with a focus on Azure cloud services and infrastructure.
+"">
+
+- Proven experience with Terraform for Infrastructure as Code (IaC), Azure networking, security implementations, and Azure DevOps CI/CD pipeline management.
+"">
+
+- Experience with Databricks and Snowflake.
+"">
+
+- Familiarity with FinOps principles for cloud cost management.
+"">
+
+- Excellent problem-solving and communication skills, with the ability to collaborate effectively across teams.
+"">
+
+- Strong understanding of backup and disaster recovery best practices in cloud environments.
+"">
+
+About Us
+"">
+
+AIMCo is committed to creating a workplace culture that values diversity, equity, and inclusion. We strive to provide equal opportunities to all employees and job applicants, regardless of their background, race, color, national origin, sex, age, disability, sexual orientation, gender identity, or any other characteristic protected by law."
+Cloud Infrastructure Architect,Alberta Investment Management Co,Ca.bebee.com,Full-time,"Job Description
+
+We are seeking a seasoned Cloud Engineer with expertise in implementing and maintaining robust Azure infrastructure. The successful candidate will leverage their knowledge of Terraform for infrastructure provisioning, manage CI/CD pipelines in Azure DevOps, and ensure optimal performance and security across our cloud platforms.
+Responsibilities:
+• Provision and manage Azure infrastructure using Terraform, integrating SaaS applications with our data platform built on Databricks and Snowflake.
+• Support and manage infrastructure for Azure Integration Services and containerization technologies, such as Azure Container Apps and Azure Kubernetes Service (AKS).
+• Design, implement, and maintain Azure networking components, while implementing security measures to ensure compliance with organizational policies.
+• Establish and manage pipelines for continuous integration and deployment of Azure infrastructure changes with Azure DevOps, collaborating closely with cross-functional teams.
+• Monitor and optimize the Azure environment and apply FinOps best practices to maximize business value of the cloud."
+Data Storage Solutions Engineer,Raas Infotek,Trabajo.org,Full-time,"Data Storage Solutions Engineer
+
+We are seeking an experienced Data Storage Solutions Engineer to join our team at Raas Infotek Corporation. As a key member of our infrastructure group, you will be responsible for the design, implementation, and maintenance of our data storage systems using Dell and AWS technologies.
+
+About Us:
+Raas Infotek Corporation is a leading provider of IT solutions and services. We specialize in delivering customized solutions that meet the unique needs of our clients. Our team of experts has extensive experience in designing and implementing complex storage systems using Dell and AWS technologies.
+
+Responsibilities:
+- Design and implement data storage systems using Dell and AWS technologies
+- Provision and manage storage volumes and file shares
+- Configure and troubleshoot SAN switches and storage arrays
+- Work on Azure Cloud storage accounts and file shares
+- Troubleshoot file share related issues
+- Maintain accurate documentation of all storage system configurations and changes
+
+Requirements:
+- 5+ years of experience in data storage administration using Dell and AWS technologies
+- Strong knowledge of SAN switches and storage arrays
+- Experience working with Azure Cloud storage accounts and file shares
+- Excellent problem-solving skills and ability to work under pressure
+- Strong communication and teamwork skills
+- Bachelor's degree in Computer Science or related field
+
+What We Offer:
+- Competitive salary and benefits package
+- Opportunity to work with a leading provider of IT solutions and services
+- Collaborative and dynamic work environment
+- Professional development opportunities"
+Senior Cloud Infrastructure Architect,Vantix Systems Inc.,BeBee Canada Meet Opportunities,Full-time,"Job Overview
+Vantix Systems Inc. is seeking an experienced Senior Cloud Infrastructure Architect to lead the design and implementation of scalable, secure, and efficient cloud-based infrastructure solutions."
+Cloud Architect Position,Vantix Systems Inc.,BeBee Canada Meet Opportunities,Full-time,"Vantix Systems Inc. invites applications for a cloud architect position.
+
+We are looking for an experienced professional with a strong background in software development and cloud architecture.
+
+The successful candidate will be responsible for leading the design and implementation of cloud-based systems, ensuring scalability, security, and reliability.
+
+Requirements:
+• A bachelor's degree in computer science or a related field.
+• At least 5 years of experience in software development and cloud architecture.
+• Proven track record of designing and implementing scalable, secure, and reliable cloud-based systems.
+• Strong knowledge of cloud platforms, including Amazon AWS.
+• Experience with DevOps practices and tools.
+
+What We Offer:
+• A competitive salary package.
+• Ongoing training and professional development opportunities.
+• A collaborative and dynamic work environment."
+IT Infrastructure Engineer,Carrington Group,BeBee Canada Meet Opportunities,Full-time,"Carrington Holdings Ltd. is a leading developer of real estate in Western Canada, celebrating 50 years in the industry. As an IT Infrastructure Engineer, you will play a critical role in designing, implementing, and maintaining our computer systems and networks.
+
+About the Position:
+• You will work under the Director of IT Services and Strategy to develop and maintain our IT infrastructure, ensuring it meets the changing needs of the business.
+• You will design and implement network architectures, ensuring high availability and scalability.
+• You will configure and maintain servers, desktops, laptops, mobile devices, and other computing equipment.
+• You will analyze system performance and make recommendations for improvement, working closely with internal stakeholders to implement changes.
+
+Required Skills and Qualifications:
+• A post-secondary diploma in Computer Science or a related academic field of study is preferred.
+• Intermediate knowledge of data processing, hardware platforms, and enterprise software applications is preferred.
+• Three years of experience in a similar role are required.
+• Detailed knowledge of server operating systems, infrastructure monitoring and maintenance systems, cloud-based services, SaaS applications, networking, and SAN/Storage concepts are required.
+• Intermediate knowledge of Windows, Windows Servers, Office Suites, and database services, including Microsoft SQL, are preferred.
+
+Benefits:
+• Comprehensive benefits, including extended health & dental, life, and disability insurance.
+• A Flexible Spending Account for additional health and wellness coverage.
+• A Company-matched RRSP program.
+• Paid training and development programs.
+
+Others:
+• This is a full-time position that requires strong technical skills and attention to detail.
+• You will be part of a team-oriented environment that fosters collaboration and open communication.
+• The Carrington Group is an equal opportunity employer and welcomes all qualified applicants."
+Cloud BI Platform Technical Lead,Intello Technologies Inc.,BeBee Canada Meet Opportunities,Full-time,"Job Description
+"">
+
+We're seeking an experienced Senior Architect - Data Analytics Specialist to join our Cloud BI Platform team. As a key member of our team, you will be responsible for designing, implementing, and maintaining scalable, secure, and high-performance cloud-based BI platforms."
